@@ -1,0 +1,42 @@
+
+h2{
+    color: blue;
+}
+span{
+    font-style: italic;
+}
+#form{
+    width: 500px;
+    height:200px;
+    border: 5px solid gray;
+    border-radius: 10px;
+    font-style: italic;
+    position: relative;
+    
+}
+.box{
+    margin-top: 30px;
+    border-radius:50px ;
+    padding: 5px;
+    border-radius: 5px;
+}
+#feed{
+    width:1000px
+}
+button:hover{
+    background-color: cadetblue;
+}
+div{
+    background-image: url(profolio.jpg);
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+}
+#form{
+    width: 450px;;
+}
+#head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: grey;
+}
